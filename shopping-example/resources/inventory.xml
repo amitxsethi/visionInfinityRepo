@@ -1,0 +1,22 @@
+<catalog>
+	<item>
+		<name>Banana</name>
+		<price>2.99</price>
+	</item>
+	<item>
+		<name>Orange</name>
+		<price>2.50</price>
+	</item>
+	<item>
+		<name>Apple</name>
+		<price>5.00</price>
+	</item>
+	<item>
+		<name>Lemon</name>
+		<price>10.00</price>
+	</item>
+	<item>
+		<name>Peach</name>
+		<price>12.25</price>
+	</item>
+</catalog>

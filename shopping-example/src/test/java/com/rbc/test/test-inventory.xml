@@ -1,0 +1,10 @@
+<catalog>
+	<item>
+		<name>Banana</name>
+		<price>2.00</price>
+	</item>
+	<item>
+		<name>Orange</name>
+		<price>2.50</price>
+	</item>
+</catalog>
